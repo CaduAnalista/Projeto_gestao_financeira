@@ -6,7 +6,7 @@
   const KEY = "gestao-financeira:v1";
 
   // CONFIGURAÇÃO DA NUVEM
-  const API_URL = "https://xhyytfbgajgtcnlccmx.supabase.co/functions/v1/gestao-api";
+  const API_URL = "https://xhyyhtfbgajgtcnlccmx.supabase.co/functions/v1/gestao-api";
   const ACCESS_KEY = "gestao-financeira:codigo-acesso";
 
   let versaoNuvem = 0;
